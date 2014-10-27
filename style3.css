@@ -1,10 +1,6 @@
 body 
 {
-  font-family: arial;
-  font-weight: 300;
+  background: url(greywood.jpg) repeat;
 
 }
 
-h3 {
-	font-size: 5.9vw;
-}
