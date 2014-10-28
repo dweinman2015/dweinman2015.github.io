@@ -3,4 +3,12 @@ body
   background: url(greywood.jpg) repeat;
 
 }
-
+.jumbotron {
+margin-bottom: 0px;
+background-image: url(jumbotron.jpg);
+background-position: 0% 25%;
+background-size: cover;
+background-repeat: no-repeat;
+color: Orange;
+text-shadow: black 0.3em 0.3em 0.3em;
+}
